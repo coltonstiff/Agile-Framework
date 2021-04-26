@@ -1,8 +1,8 @@
 # CS-250
-#How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
 
-#How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+I interpret user needs as the driving force behind every Sprint goal, and the implementation of the functionality that accomplishes, fulfills, and/or satisfies those needs into a program is what I interpret as the benchmark of producing success in the users' eyes. Creating User Stories makes this possible by meeting with the end-users, hearing their struggles, empathizing with them and their pain-points, and comprehending the relief of which a solution can provide. A Project Team can be more confident with an implementation when the success criteria of the application functionality users are seeking to obtain is conveyed, described, and outlined directly from the users who will be using it most. 
 
-#What does it mean to be a good team member in software development?
+I approach developing programs from a fundamental, foundational, and ground-up perspective from both a technical aspect, as well as project management one. With the newfound knowledge I’ve acquired regarding the software development life cycle and the Scrum model, I hope to incorporate more Agile process in my future development. Processes such as creating a Vision Statement to serve as inspiration, to provide focus, and drive the project to completion, creating User Stories to gather requested functionality from the users themselves, and Scrum events such as, Daily Standups, Sprint Meetings, and Sprint Review and Retrospect meetings. 
 
+To be a good team member in a software development project or team, a member must be collaborative, engaging, and positive. Good team members conduct every communication with any and all team members with the upmost courtesy and effectiveness and treat others the way they wish to be treated. They should strive for technical excellence, aim to be as resourceful and useful to others, and when providing their thoughts or constructive criticism to ensure that they criticize ideas and not people. By being a good person to other, being a good team member should come natural. 
 
